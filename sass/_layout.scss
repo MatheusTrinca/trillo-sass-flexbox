@@ -51,7 +51,10 @@
 }
 
 .user-reviews {
+  font-size: 1.4rem;
   flex: 1;
-  background-color: white;
-  box-shadow: var(--shadow-light);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
